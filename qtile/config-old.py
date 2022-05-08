@@ -79,24 +79,8 @@ for i in groups:
         ]
     )
 
-layout_theme = {"border_width": 2,
-                "margin": 8,
-                "border_focus": "81A1C1",
-                "border_normal": "2E3440"
-                }
 layouts = [
-    layout.Columns(
-        border_normal_stack="#707070",
-        border_focus_stack="#dbdbdb",
-        border_normal="#2E3440",
-        border_focus="#81A1C1",
-        border_width=2,
-        margin=8),
-
-    layout.Floating(
-        border_normal="#2E3440",
-        border_focus="#81A1C1"),
-
+    layout.Columns(border_focus_stack=["#FFFFFF", "#DBDBDB"],border_width=2,margin=8),
     layout.Max(),
     # Try more layouts by unleashing below layouts.
     # layout.Stack(num_stacks=2),
@@ -166,11 +150,5 @@ auto_minimize = True
 
 # When using the Wayland backend, this can be used to configure input devices.
 wl_input_rules = None
-
-# @hook.subscribe.startup_once
-# def start_once():
-#    pass
-#    home = os.path.expanduser('~')
-#    subprocess.call([home + '/.config/qtile/autostart.sh'])
 
 wmname = "LG3D"
