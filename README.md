@@ -13,7 +13,8 @@ This is a backup for my current OS, including some configurations and a package 
 - [polybar](https://github.com/polybar/polybar) Status bar
 - [qtile](https://github.com/qtile/qtile) Window manager
 - [rofi](https://github.com/davatorium/rofi) Program launcher
-- [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/firefox-nord-dark/)
+- [rofi theme](https://github.com/lr-tech/rofi-themes-collection) *(Not included)* Rofi theme, im using Squared North
+- [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/firefox-nord-dark/) *(Not included)* Firefox theme
 
 ## Dependencies and things to aknowledge ⛩️
 Unforunately, I don't remember all the dependencies needed :c, but here are some of them, apart from the program for the module itself:
