@@ -2,6 +2,10 @@
 
 ![theme](https://i.imgur.com/k2FyDgs.jpg)
 
+This is a backup for my current OS, including some configurations and a package list.
+
+**Note:** This is [Arch Linux](https://archlinux.org/), so every package has been installed through [pacman](https://wiki.archlinux.org/title/pacman) packet manager, don't try to blindly replace every config file in your system even if is also archlinux if you don't know exactly what are you doing, or you'll find issues and incompatibilities!
+
 ## Modules 🌇
 - [alacritty](https://github.com/alacritty/alacritty) Terminal
 - [doom](https://github.com/doomemacs/doomemacs) Doom emacs (kind of IDE)
