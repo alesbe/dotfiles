@@ -7,9 +7,10 @@
 - [polybar](https://github.com/polybar/polybar) Status bar
 - [qtile](https://github.com/qtile/qtile) Window manager
 - [rofi](https://github.com/davatorium/rofi) Program launcher
+- [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/firefox-nord-dark/)
 
 ## Dependencies and things to aknowledge ⛩️
-Unforunately, I don't remember all the dependencies :c, but here are some of them, apart from the program for the module itself:
+Unforunately, I don't remember all the dependencies needed :c, but here are some of them, apart from the program for the module itself:
 
 - [nerd fonts](https://github.com/ryanoasis/nerd-fonts): Icon font pack
 - [iosevka](https://github.com/be5invis/Iosevka): Font used for the majority of things
