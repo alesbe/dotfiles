@@ -117,11 +117,8 @@ widget_defaults = dict(
 )
 extension_defaults = widget_defaults.copy()
 
-# WALLPAPERS
+# WALLPAPERS (add the wallpaper to qtile folder, add a variable with the file name, and replace wallpaper variable in screens[] with your background variable!)
 base_bg = '~/.config/qtile/'
-deer_light = 'deer_light.jpg'
-deer_dark = 'deer_dark.jpg'
-mountain_minimal = 'mountain_minimal.jpg'
 nord_mountain = 'nord_mountain.jpg'
 
 screens = [
