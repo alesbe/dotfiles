@@ -1,5 +1,7 @@
 # Nord Theme Dotfiles ⛰️
 
+![theme](https://i.imgur.com/k2FyDgs.jpg)
+
 ## Modules 🌇
 - [alacritty](https://github.com/alacritty/alacritty) Terminal
 - [doom](https://github.com/doomemacs/doomemacs) Doom emacs (kind of IDE)
