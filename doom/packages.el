@@ -51,3 +51,5 @@
 
 (package! evil-tutor)
 (package! pdf-tools)
+(package! writegood-mode)
+(package! writeroom-mode)
