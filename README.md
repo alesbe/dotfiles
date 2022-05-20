@@ -20,7 +20,6 @@ This is a backup for my current OS, including some configurations and a package 
 Unforunately, I don't remember all the dependencies needed :c, but here are some of them, apart from the program for the module itself:
 
 - [nerd fonts](https://github.com/ryanoasis/nerd-fonts): Icon font pack
-- [iosevka](https://github.com/be5invis/Iosevka): Font used for the majority of things
 
 ## Known issues 🚑
 - Youtube videos took so long to load in any browser and freezes the browser window, I solved the issue updating something related to mpeg or changing pulseaudio to pipewire
