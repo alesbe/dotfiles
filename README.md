@@ -23,4 +23,4 @@ Unforunately, I don't remember all the dependencies needed :c, but here are some
 
 ## Known issues 🚑
 - Youtube videos took so long to load in any browser and freezes the browser window, I solved the issue updating something related to mpeg or changing pulseaudio to pipewire
-- Can't autostart polybar, I have to run manually `.config/polybar/launch.sh --blocks`
+- Can't autostart polybar, I have to manually run `.config/polybar/launch.sh --blocks`
